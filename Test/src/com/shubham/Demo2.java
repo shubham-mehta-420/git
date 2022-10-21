@@ -1,8 +1,6 @@
 package com.shubham;
 
 
-// Java program to demonstrate difference between
-// String, StringBuilder and StringBuffer
 
 // Main class
 class Demo2 {
